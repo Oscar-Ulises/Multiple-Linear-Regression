@@ -5,7 +5,7 @@ Charlie wants to buy a house. He does a detailed survey of the area where he wan
 
 ## Sample Input
 2 7
-0.18 0.89 109.85
+0.18 0.89 109.85 \n
 1.0 0.26 155.72
 0.92 0.11 137.66
 0.07 0.37 76.17
